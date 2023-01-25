@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: vpopyk/hello-gitops
-  newTag: 206982bd9980991a9a84e99355cd0b3e3e5365d207e206242c94eec713194711
+  newTag: baa8d91060a4ff7bb14931b572ca2987342f8842
